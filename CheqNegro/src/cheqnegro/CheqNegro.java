@@ -17,6 +17,8 @@ public class CheqNegro {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Oswaldo");
+        System.out.println("gonzalo se la come toda");
+        System.out.println("edw");
     }
     
 }
